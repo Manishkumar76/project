@@ -1,4 +1,4 @@
-# project
+# Event Management App
 
 
 A new Flutter project.
